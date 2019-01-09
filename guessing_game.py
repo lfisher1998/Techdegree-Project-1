@@ -1,5 +1,6 @@
 #Python Web Development Techdegree
 #Project 1 - Number Guessing Game
+#Developer - Luke Fisher
 #--------------------------------
 #
 import random
